@@ -1,11 +1,11 @@
 {
-  "CONTRACT_ADDRESS": "0xc00baAb6b77eb88833e04Dd573bEc6785e48b37b",
+  "CONTRACT_ADDRESS": "0xc06D8F4144E1D79cbEF34C71d12793ebdCB45774",
 
   "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
   "NETWORK": {
-    "NAME": "Avalanche FUJI C-Chain",
+    "NAME": "mumbai testnet,
     "SYMBOL": "AVAX",
-    "ID": 43113
+    "ID": 80001
   },
   "NFT_NAME": "MoonButts",
   "SYMBOL": "MoonButts",
