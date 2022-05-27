@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0xc06D8F4144E1D79cbEF34C71d12793ebdCB45774",
+  "CONTRACT_ADDRESS": "0x06b28aDCb66f45842b2E3C5B08A9Bbbd754b92a6",
 
   "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
   "NETWORK": {
     "NAME": "mumbai testnet,
-    "SYMBOL": "AVAX",
+    "SYMBOL": "matic",
     "ID": 80001
   },
   "NFT_NAME": "MoonButts",
